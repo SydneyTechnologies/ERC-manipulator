@@ -1,0 +1,18 @@
+take picture from home point (0, 450, 850)
+
+get center points of items on tables
+
+sort center points 
+
+go to first center point 
+
+open gripper
+
+----check distance from center point 
+----IF distance is less than threshold continue ELSE go home
+----calculate z for object (750 - IR distance)
+
+GO to 480 in the Z axis of the arm 
+
+close the gripper 
+
